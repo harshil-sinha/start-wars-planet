@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/start-wars-planet/static/css/main.42a8b694.css",
+    "main.js": "/start-wars-planet/static/js/main.aeec876c.js",
+    "index.html": "/start-wars-planet/index.html",
+    "main.42a8b694.css.map": "/start-wars-planet/static/css/main.42a8b694.css.map",
+    "main.aeec876c.js.map": "/start-wars-planet/static/js/main.aeec876c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42a8b694.css",
+    "static/js/main.aeec876c.js"
+  ]
+}
